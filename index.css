@@ -1,0 +1,20 @@
+
+.homeworkList {
+    color: rgb(59, 59, 59);
+    font-size: 18;
+}
+body{
+    background-color: aliceblue;
+}
+#mainTitle{
+    text-align: center;
+    font-size: 30px;
+}
+#subTitle{
+    text-align: center;
+    font-size: 15px;
+}
+.date{
+    font-family: "DIN","Consolas","微软雅黑";
+    font-size: 20px;
+}
