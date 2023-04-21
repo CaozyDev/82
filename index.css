@@ -1,20 +1,31 @@
+@font-face{
+    font-family: "HMSans";
+    src:url("HarmonyOS_Sans.ttf");
+}
+
+
+
+h3{
+    color: #3C3C3C;
+}
 
 .homeworkList {
-    color: rgb(59, 59, 59);
-    font-size: 18;
+    color: #232323;
+    font-size: 22;
 }
 body{
-    background-color: aliceblue;
+    background-color: white;
+    font-family: "HMSans";
 }
 #mainTitle{
-    text-align: center;
+    text-align: left;
     font-size: 30px;
 }
 #subTitle{
-    text-align: center;
+    text-align: left;
     font-size: 15px;
 }
 .date{
-    font-family: "DIN","Consolas","微软雅黑";
     font-size: 20px;
+    color: #3C3C3C;
 }
