@@ -3,15 +3,16 @@
     src:url("HarmonyOS_Sans.ttf");
 }
 
-
-
 h3{
     color: #3C3C3C;
+    font-size: 21px;
+    line-height: 23px;
 }
 
 .homeworkList {
     color: #232323;
-    font-size: 22;
+    font-size: 18px;
+    line-height: 25px;
 }
 body{
     background-color: white;
@@ -19,13 +20,13 @@ body{
 }
 #mainTitle{
     text-align: left;
-    font-size: 30px;
+    font-size: 31px;
 }
 #subTitle{
     text-align: left;
     font-size: 15px;
 }
 .date{
-    font-size: 20px;
+    font-size: 23px;
     color: #3C3C3C;
 }
