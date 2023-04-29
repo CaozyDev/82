@@ -36,3 +36,9 @@ body{
     font-size: 23px;
     color: #3C3C3C;
 }
+ul{
+    list-style: circle;
+}
+body{
+    background-color:floralwhite;
+}
