@@ -2,14 +2,20 @@
     font-family: "HMSans";
     src:url("HarmonyOS_Sans.ttf");
 }
+@font-face {
+    font-family: "CangEr";
+    src: url("Canger.otf");
+}
+@font-face {
+    font-family: "Youzai";
+    src: url("Yozai.ttf");
+}
 
 h3{
     color: #3C3C3C;
     font-size: 21px;
     line-height: 23px;
 }
-
-
 
 .homeworkList {
     color: #232323;
@@ -21,11 +27,11 @@ body{
     background-repeat: repeat-y;
     background-size:contain;
     background-size: 1530px;
-    font-family: "HMSans";
+    font-family: "Youzai";
 }
 #mainTitle{
     text-align: left;
-    font-family: "HMSans";
+    font-family: "Youzai";
     font-size: 31px;
     color: black;
     text-decoration: none;
